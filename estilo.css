@@ -28,3 +28,16 @@ footer
     text-align: center;
     font-style: italic;
 }
+
+@media screen and (max-width: 600px) {
+    div img 
+    {
+    width: 300px;
+    height: 300px;
+    }
+
+    section {
+    width: 300px;
+    margin: auto;
+    }
+}
