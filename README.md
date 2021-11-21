@@ -11,3 +11,7 @@ Primeiro projetinho com algumas linhas de JavaScript.
 * Mostrar a hora exata; 
 * Mudar a imagem conforme a hora entre (manhã, tarde e noite);
 * Mudar a tonalidade do body em conformidade as imagens mostradas; 
+
+## Pages Github
+
+https://acllemes.github.io/hora-do-dia/ 
